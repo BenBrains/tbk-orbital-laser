@@ -1,0 +1,2 @@
+# 🐈 Orbital Laser (cat laser)
+> An assignment for 'TBK'. We had to make a cat laser using an Arduino Uno, two servos, an IR infrared motion sensor and a laser. The servos had to move randomly, but were not allowed to point in the air. Always towards the ground.
